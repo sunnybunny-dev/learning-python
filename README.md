@@ -6,3 +6,4 @@ Personal repository tracking my Python progress and practice scripts.
 * **Day 1:** Data types, type casting, string formatting, and raw strings,and regex basics.
 * **Day 2:** Tuples, lists, indexing and slicing, `.append()` vs `.extend()`, and string splitting.
 * **Day 3:** Dictionaries and sets fundamentals.
+* **Day 4:** Conditions (`if`/`elif`/`else`), comparison operators, `for` loops, `range()`, `enumerate()`, and `while` loops.
