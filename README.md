@@ -7,3 +7,4 @@ Personal repository tracking my Python progress and practice scripts.
 * **Day 2:** Tuples, lists, indexing and slicing, `.append()` vs `.extend()`, and string splitting.
 * **Day 3:** Dictionaries and sets fundamentals.
 * **Day 4:** Conditions (`if`/`elif`/`else`), comparison operators, `for` loops, `range()`, `enumerate()`, and `while` loops.
+* **Day 5:** Functions (`def`), parameters, default arguments, return statements, scope, `*args`, and `**kwargs`.
