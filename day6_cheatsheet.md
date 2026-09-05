@@ -1,9 +1,8 @@
 # Day 6 Cheat Sheet: Exception Handling & OOP
 
 ## 1. Exception Handling
-Used to handle errors gracefully without crashing your program.
+Used to handle errors gracefully without crashing the program.
 
-```python
 try:
     getfile = open("file.txt", "r")
     getfile.write("My file for exception handling.")
@@ -12,7 +11,7 @@ except IOError:
 except Exception as e:
     print(f"Some other error occurred: {e}")
 
-bjects and Classes
+objects and Classes
 Creating Objects
 Instantiation using class constructors.
 obj = ClassName(value1, value2)
