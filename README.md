@@ -9,3 +9,4 @@ Personal repository tracking my Python progress and practice scripts.
 * **Day 4:** Conditions (`if`/`elif`/`else`), comparison operators, `for` loops, `range()`, `enumerate()`, and `while` loops.
 * **Day 5:** Functions (`def`), parameters, default arguments, return statements, scope, `*args`, and `**kwargs`.
 * **Day 6:** Exception handling (`try`/`except`), objects, and classes (attributes, methods, `type()`, `dir()`).
+* **Day 7:** Practice lab on text analysis and Python programming fundamentals summary.

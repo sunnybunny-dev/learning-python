@@ -17,7 +17,7 @@ Instantiation using class constructors.
 obj = ClassName(value1, value2)
 
 Accessing Attributes and Methods
-Use dot notation:
+Use dot notation:5
 
 obj.attribute1
 obj.method_name(args)
