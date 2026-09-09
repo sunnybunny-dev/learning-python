@@ -10,3 +10,5 @@ Personal repository tracking my Python progress and practice scripts.
 * **Day 5:** Functions (`def`), parameters, default arguments, return statements, scope, `*args`, and `**kwargs`.
 * **Day 6:** Exception handling (`try`/`except`), objects, and classes (attributes, methods, `type()`, `dir()`).
 * **Day 7:** Practice lab on text analysis and Python programming fundamentals summary.
+* **Day 8:** File I/O with `open()`, reading (`read()`, `readline()`, `readlines()`), writing (`w`), appending (`a`), and context managers (`with` statement).
+* **Day 9:** Pandas fundamentals, Series vs. DataFrames, loading files (`pd.read_csv()`), index selection (`.loc` vs `.iloc`), filtering, and exporting data.
