@@ -1,20 +1,3 @@
-#Pandas :Loading Data
-#pandas:working with and saving data
-#import pandas as pd
-
-#Data loading
-import pandas as pd
-df = pd.real_csv('your_file.csv')
-
-#what is a series?
-import pandas as pd
-#create a series from a list
-data = [10,20,30,40,50]
-s = pd.Series(data)
-print(s)
-
-#inspecting and exploring data
-
 # Summary statistics for numerical columns
 df.describe()
 
